@@ -131,7 +131,13 @@ writers:
         published: 1939
         genre: 'mystery'
         country: 'England'
-    - 
+    -
+        name: 'Peter Benchley'
+        book: 'Jaws'
+        published: 1974
+        genre: 'mystery'
+        country: 'United States'
+    -
         name: 'Ivan Horvat'
         book: 'Bla bla'
         published: 1855
@@ -154,4 +160,34 @@ writers:
         book: 'bla bla bli bli'
         published: 1999
         genre: 'Philosophical novel'
-        country: 'Croatia' 
+        country: 'Croatia'
+    -
+        name: 'aaa'
+        book: 'aaa'
+        published: 1846
+        genre: 'Philosophical novel'
+        country: 'Russia'
+    -
+        name: 'bbb'
+        book: 'bbb'
+        published: 1846
+        genre: 'Philosophical novel'
+        country: 'Russia'
+    -
+        name: 'ccc'
+        book: 'ccc'
+        published: 1846
+        genre: 'Philosophical novel'
+        country: 'Russia'
+    -
+        name: 'ddd'
+        book: 'ddd'
+        published: 1846
+        genre: 'Philosophical novel'
+        country: 'Russia'
+    -
+        name: 'eee'
+        book: 'eee'
+        published: 1846
+        genre: 'Philosophical novel'
+        country: 'Russia'
